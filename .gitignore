@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+frontend/dist/
+captures/*.png
+captures/*.mp4
+.env
+.DS_Store
+models/*.pt
